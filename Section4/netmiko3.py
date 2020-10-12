@@ -4,21 +4,21 @@ iosv_l2_s4 = {
     'device_type': 'cisco_ios',
     'ip': '172.16.128.84',
     'username': 'tom',
-    'password': 'cisco',
+    'password': 'cisco'
 }
 
 iosv_l2_s5 = {
     'device_type': 'cisco_ios',
     'ip': '172.16.128.85',
     'username': 'tom',
-    'password': 'cisco',
+    'password': 'cisco'
 }
 
 iosv_l2_s6 = {
     'device_type': 'cisco_ios',
     'ip': '172.16.128.86',
     'username': 'tom',
-    'password': 'cisco',
+    'password': 'cisco'
 }
 
 with open('iosv_l2_cisco_design') as f:
