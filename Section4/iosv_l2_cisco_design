@@ -28,7 +28,7 @@ vlan 102
 interface vlan 1
  description In-band Management
 
-ip default-gateway 192.168.122.1
+ip default-gateway 172.16.128.1
 ip dhcp snooping vlan 100,101
 
 no ip dhcp snooping information option 
