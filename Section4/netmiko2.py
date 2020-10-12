@@ -2,22 +2,22 @@ from netmiko import ConnectHandler
 
 iosv_l2_s1 = {
     'device_type': 'cisco_ios',
-    'ip': '192.168.122.72',
-    'username': 'david',
+    'ip': '172.16.128.72',
+    'username': 'tom',
     'password': 'cisco'
 }
 
 iosv_l2_s2 = {
     'device_type': 'cisco_ios',
-    'ip': '192.168.122.82',
-    'username': 'david',
+    'ip': '172.16.128.82',
+    'username': 'tom',
     'password': 'cisco'
 }
 
 iosv_l2_s3 = {
     'device_type': 'cisco_ios',
-    'ip': '192.168.122.83',
-    'username': 'david',
+    'ip': '172.16.128.83',
+    'username': 'tom',
     'password': 'cisco'
 }
 
