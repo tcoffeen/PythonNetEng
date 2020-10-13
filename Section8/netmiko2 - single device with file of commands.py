@@ -5,7 +5,7 @@ with open('commands_file') as f:
 
 ios_devices = {
     'device_type': 'cisco_ios',
-    'ip': '192.168.122.72',
+    'ip': '172.16.128.72',
     'username': 'david',
     'password': 'cisco',
 }

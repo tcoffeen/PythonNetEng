@@ -1,8 +1,8 @@
 import json
 from napalm import get_network_driver
 
-bgplist = ['192.168.122.72',
-           '192.168.122.73'
+bgplist = ['172.16.128.72',
+           '172.16.128.73'
            ]
 for ip_address in bgplist:
     print ("Connecting to " + str(ip_address))

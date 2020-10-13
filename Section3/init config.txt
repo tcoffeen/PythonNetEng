@@ -9,7 +9,7 @@ enable password cisco
 username tom privilege 15 password 0 cisco
 
 int vlan 1
-ip add 192.168.122.86 255.255.255.0
+ip add 172.16.128.86 255.255.255.0
 no shut
 
 line vty 0 4
